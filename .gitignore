@@ -1,0 +1,9 @@
+# Personal or raw experiment data
+private/
+*.local.md
+*.raw.txt
+
+# OS/editor files
+Thumbs.db
+.DS_Store
+.vscode/
